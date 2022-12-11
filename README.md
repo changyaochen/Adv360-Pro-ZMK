@@ -13,7 +13,7 @@ GUI interface [here](https://kinesiscorporation.github.io/Adv360-Pro-GUI/)
 ### Build firmware
 
 1. Push a commit to trigger the build.
-2. Download the artifact (from the `Action` tab, and following the latest build, there should be a `Download` section towards the bottom of the page).
+2. Download the artifact: from the `Actions` tab, and following the corresponding build, there should be a `Artifacts` section towards the bottom of the page. Download the artifact.
 
 ## To build Firmware locally using Docker
 
